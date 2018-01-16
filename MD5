@@ -1,4 +1,4 @@
-33002c41c4ad0c3854d90e05c7806ff7 *DESCRIPTION
+8cbce795b9bda03954808c378a34ed29 *DESCRIPTION
 9ea3ce7974b52fb2642cbdb9f7601cd5 *NAMESPACE
 303f489badb24c242caffd51f7c16d2f *R/fns.R
 f5cbb5fa84688e1a3a92fed19d0d8163 *R/sparseinv.R
@@ -22,7 +22,7 @@ ab75eeb2ab04d908f41ddbcb4cbf79a0 *src/amd_global.c
 9abf67b12455bb1989b0e9edaa0bec03 *src/amd_info.c
 c6853d404ac47d7e043ee6c21eff3836 *src/amd_internal.h
 f1028520d0f92195e282d4c4d179c14d *src/amd_order.c
-6cce91879b7efe2fe307fe280a4e4ce1 *src/amd_order_wrapper.c
+fa6ceb52222132c4f14c7427e2bad656 *src/amd_order_wrapper.c
 ef2721c13b7b391dcf74882d7f544be5 *src/amd_order_wrapper.h
 5f8f83de491e328aefbff08a09c3b467 *src/amd_post_tree.c
 d696467688131d58e3acf9e5a627360e *src/amd_postorder.c

@@ -1,8 +1,8 @@
 Package: sparseinv
 Type: Package
 Title: Computation of the Sparse Inverse Subset
-Version: 0.1
-Date: 2018-01-13
+Version: 0.1.1
+Date: 2018-01-16
 Authors@R: c(
     person("Andrew", "Zammit-Mangion", , "andrewzm@gmail.com", c("aut", "cre")),
     person("Timothy", "Davis", , "davis@tamu.edu", role = "ctb"),
@@ -26,11 +26,11 @@ License: GPL (>= 2)
 NeedsCompilation: yes
 LazyData: true
 RoxygenNote: 6.0.1
-Packaged: 2018-01-14 03:21:49 UTC; Andrew
+Packaged: 2018-01-15 23:08:25 UTC; Andrew
 Author: Andrew Zammit-Mangion [aut, cre],
   Timothy Davis [ctb],
   Patrick Amestoy [ctb],
   Iain Duff [ctb],
   John K. Reid [ctb]
 Repository: CRAN
-Date/Publication: 2018-01-15 12:35:05 UTC
+Date/Publication: 2018-01-16 10:17:46 UTC
