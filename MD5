@@ -1,7 +1,8 @@
-8cbce795b9bda03954808c378a34ed29 *DESCRIPTION
-9ea3ce7974b52fb2642cbdb9f7601cd5 *NAMESPACE
+f4e896d865e80bf7e6e3cfa8d03c5c7e *DESCRIPTION
+00fd611ac32946c51e794ba9df802b9d *LICENSE.note
+e472e8313b1884a22fa5613b29de9f8c *NAMESPACE
 303f489badb24c242caffd51f7c16d2f *R/fns.R
-f5cbb5fa84688e1a3a92fed19d0d8163 *R/sparseinv.R
+111785f1db818773cdf7329f98c35b04 *R/sparseinv.R
 edf6adc383b106f14948fa157a8a35e5 *R/zzz.R
 defaa78b8209e726ceb67bcfd9f39e45 *man/Takahashi_Davis.Rd
 cb06e6d511af0b137cb7885c68e692a0 *man/cholPermute.Rd
@@ -33,4 +34,4 @@ f1df8cfb414ee9aa2f3e722ad810b909 *src/sparseinv-init.c
 8f9bc2573031877f6f8621500388cfc4 *src/sparseinvR.c
 a1beb2cbd0639ca68a6b9126f692622a *src/sparseinvR.h
 0dbee136f070183d347fd4736243f453 *tests/testthat.R
-ca050ec1d5b7916d3343cb739a719e12 *tests/testthat/test_linalg.R
+594df05689a4b1cf9e146e2ff4f826dc *tests/testthat/test_linalg.R
