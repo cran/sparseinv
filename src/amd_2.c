@@ -4,7 +4,7 @@
 
 /* ------------------------------------------------------------------------- */
 /* AMD, Copyright (c) Timothy A. Davis,					     */
-/* Patrick R. Amestoy, and Iain S. Duff.  See ../README.txt for License.     */
+/* Patrick R. Amestoy, and Iain S. Duff.                                     */
 /* email: DrTimothyAldenDavis@gmail.com                                      */
 /* ------------------------------------------------------------------------- */
 
